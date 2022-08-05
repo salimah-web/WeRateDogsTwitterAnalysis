@@ -30,5 +30,15 @@ In this section, the gathered data was visually and programatically assessed the
 10. Tweet IDs is spread across all datasets and should be merged by the Tweet IDs common to all.
 
 ### Data Analysis
+Analysis was then carried out on the wrangled and the following questions were posed and answered;
+- What dog breed has the most engagement
+- What gender of dogs has more engagement
+- What dog stage is most liked
+- How does the average tweet engagement of the twitter user change over of time?
+- What tweet source is most frequent?
+
+### Conclusion
+
+From the analysis, it is gathered that, people engage tweets related to french bulldogs the most and then followed by eskimo dogs.  Also female dogs seems to be more liked and prefered to males. The doggo and puppo dog stages have more tweet engagement to the rests of the dog stages. The tweets are mostly from Iphone. There is a progressive increase in tweet enagagement of weratedogs twitter handle.
 
 This project was done as part of Udacity's Data Analyst Nanodegree certification.
