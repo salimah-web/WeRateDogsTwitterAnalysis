@@ -2,12 +2,13 @@
 ### Overview
 
 The goal of this project is majorly focused on gathering data from different sources and in various 
-formats, assess its quality and tidiness, then clean it. Extra data from twitter like retweets and favorite counts of 
-each tweet will be gathered through querying Twitter APIs with tweet IDs available in the dataset provided. We will then store, analyze and visualize the wrangled data to get useful insights from it. 
+formats, assess its quality and tidiness, then clean it. Extra data from twitter like retweets and 
+favorite counts of each tweet will be gathered through querying Twitter APIs with tweet IDs available 
+in the dataset provided. We will then store, analyze and visualize the wrangled data to get useful insights 
+from it. 
 
-The dataset that we will be using for this project is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs which is a Twitter account that rates 
-people's dogs using humorous comments.
-
+The dataset that we will be using for this project is the tweet archive of Twitter user @dog_rates, also known
+as WeRateDogs which is a Twitter account that rates people's dogs using humorous comments.
 
 ### Data Gathering
 This section involves;
@@ -15,7 +16,8 @@ This section involves;
 2. Using the Tweepy library to query additional data(retweets and favorite counts of each tweets) via the Twitter API
 
 ### Data Assessing and Cleaning
-In this section, the gathered data was visually and programatically assessed then subsequently cleaned. The following are some of the issues that were observed;
+In this section, the gathered data was visually and programatically assessed then subsequently cleaned. The 
+following are some of the issues that were observed;
 - #### Quality issues;
 1. Missing values
 2. Columns with Wrong datatypes
@@ -31,14 +33,17 @@ In this section, the gathered data was visually and programatically assessed the
 
 ### Data Analysis
 Analysis was then carried out on the wrangled and the following questions were posed and answered;
-- What dog breed has the most engagement
-- What gender of dogs has more engagement
-- What dog stage is most liked
+- What dog breed has the most engagement?
+- What gender of dogs has more engagement?
+- What dog stage is most liked?
 - How does the average tweet engagement of the twitter user change over of time?
 - What tweet source is most frequent?
 
 ### Conclusion
 
-From the analysis, it is gathered that, people engage tweets related to french bulldogs the most and then followed by eskimo dogs.  Also female dogs seems to be more liked and prefered to males. The doggo and puppo dog stages have more tweet engagement to the rests of the dog stages. The tweets are mostly from Iphone. There is a progressive increase in tweet enagagement of weratedogs twitter handle.
+From the analysis, it is gathered that, people engage tweets related to french bulldogs the most and then followed by 
+eskimo dogs.  Also female dogs seems to be more liked and prefered to males. The doggo and puppo dog stages have more 
+tweet engagement to the rests of the dog stages. The tweets are mostly from Iphone. There is a progressive increase in 
+tweet enagagement of weratedogs twitter handle.
 
 This project was done as part of Udacity's Data Analyst Nanodegree certification.
