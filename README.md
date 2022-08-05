@@ -44,6 +44,6 @@ Analysis was then carried out on the wrangled and the following questions were p
 From the analysis, it is gathered that, people engage tweets related to french bulldogs the most and then followed by 
 eskimo dogs.  Also female dogs seems to be more liked and prefered to males. The doggo and puppo dog stages have more 
 tweet engagement to the rests of the dog stages. The tweets are mostly from Iphone. There is a progressive increase in 
-tweet enagagement of weratedogs twitter handle.
+tweet enagagement of @dog_rates's user tweets.
 
 This project was done as part of Udacity's Data Analyst Nanodegree certification.
